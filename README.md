@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayarass&label=Profile%20views&color=0e75b6&style=flat" alt="mayarass" /> </p>
 
-- 🔭 I’m currently working on [Augmented reality](R2U)
 
-- 🌱 I’m currently learning **best practices, elixir, nodejs, reactjs**
+- 🌱 I’m currently learning **best practices, nodejs, reactjs**
 
 - 💬 Ask me about **Carreer, Frontend,**
 
-- 📫 How to reach me **stein.mayara@gmail.com, https://www.linkedin.com/in/mayara-stein-500375114/**
+- 📫 How to reach me **stein.mayara@gmail.com, https://www.linkedin.com/in/mayara-stein/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
