@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayarass&label=Profile%20views&color=0e75b6&style=flat" alt="mayarass" /> </p>
 
 
-- 🌱 I’m currently learning **best practices, nodejs, reactjs**
+- 🌱 I’m currently learning **best practices, nodejs, reactjs, microfrontend**
 
 - 💬 Ask me about **Carreer, Frontend,**
 
