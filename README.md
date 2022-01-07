@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Carreer, Frontend,**
 
-- 📫 How to reach me **stein.mayara@gmail.com, https://www.linkedin.com/in/mayara-stein/**
+- 📫 How to reach me **stein.mayara@gmail.com, https://www.linkedin.com/in/mayara-stein/, https://gitlab.com/maystein**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
